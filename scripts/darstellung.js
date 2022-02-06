@@ -61,7 +61,7 @@ define(["jquery","game", "fragen", "score", "descriptions"], function( $, game, 
         var fraktionsbild = descriptions.getImageOfEntry(fraktion);
         $("#rank"+rank+"-faction").text(fraktionsname);
         $("#rank"+rank+"-text").text(fraktionstext);
-        $("#rank"+rank+"-img").attr("src", "/img/" + fraktionsbild + ".svg");
+        $("#rank"+rank+"-img").attr("src", "/draonia-faction-quiz/img/" + fraktionsbild + ".svg");
       }
 
 
