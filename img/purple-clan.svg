@@ -1,0 +1,26 @@
+<svg width="156" height="219" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <rect x="343" y="308" width="156" height="219"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0)" transform="translate(-343 -308)">
+        <path d="M497.5 310.5 497.5 418C497.5 477.371 463.474 525.5 421.5 525.5 379.526 525.5 345.5 477.371 345.5 418L345.5 310.5Z"
+              stroke="#000000" stroke-width="3" stroke-miterlimit="8" fill="#6f7878" fill-rule="evenodd"/>
+        <path d="M346.5 310.5 495.5 310.824 357.212 470.5 354.291 462.403 351.694 453.334 349.097 442.646 347.799 429.69 346.825 415.763C346.933 381.215 347.041 346.667 346.5 310.5Z"
+              stroke="#000000" stroke-width="1.33333" stroke-miterlimit="8" fill=" #2E1A47" fill-rule="evenodd"/>
+        <path d="M443.5 328.32 447.32 328.32 448.5 324.5 449.68 328.32 453.5 328.32 450.41 330.68 451.59 334.5 448.5 332.139 445.41 334.5 446.59 330.68Z"
+              stroke="#000000" stroke-width="0.333333" stroke-miterlimit="8" fill="#F4F326" fill-rule="evenodd"/>
+        <path d="M366.5 338.32 370.32 338.32 371.5 334.5 372.68 338.32 376.5 338.32 373.41 340.68 374.59 344.5 371.5 342.139 368.41 344.5 369.59 340.68Z"
+              stroke="#000000" stroke-width="0.333333" stroke-miterlimit="8" fill="#F4F326" fill-rule="evenodd"/>
+        <path d="M355.5 427.702 359.32 427.702 360.5 423.5 361.68 427.702 365.5 427.702 362.41 430.298 363.59 434.5 360.5 431.903 357.41 434.5 358.59 430.298Z"
+              stroke="#000000" stroke-width="0.333333" stroke-miterlimit="8" fill="#F4F326" fill-rule="evenodd"/>
+        <path d="M483.5 399.32 487.32 399.32 488.5 395.5 489.68 399.32 493.5 399.32 490.41 401.68 491.59 405.5 488.5 403.139 485.41 405.5 486.59 401.68Z"
+              stroke="#000000" stroke-width="0.333333" stroke-miterlimit="8" fill="#F4F326" fill-rule="evenodd"/>
+        <path d="M420.5 491.32 424.32 491.32 425.5 487.5 426.68 491.32 430.5 491.32 427.41 493.68 428.59 497.5 425.5 495.139 422.41 497.5 423.59 493.68Z"
+              stroke="#000000" stroke-width="0.333333" stroke-miterlimit="8" fill="#F4F326" fill-rule="evenodd"/>
+        <path d="M460.474 442.337C429.415 454.742 396.187 444.645 386.258 419.784 376.328 394.923 393.457 364.713 424.517 352.308 400.817 383.141 408.317 420.835 441.269 436.501 447.148 439.296 453.619 441.263 460.474 442.338Z"
+              stroke="#000000" stroke-width="1.33333" stroke-miterlimit="8" fill="#F4F326" fill-rule="evenodd"/>
+    </g>
+</svg>
